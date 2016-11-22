@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bfda789-f5f7-4c59-9dfd-b635b0fae838" name="Default" comment="" />
+    <list default="true" id="4bfda789-f5f7-4c59-9dfd-b635b0fae838" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/br/com/esr/FluxoCompraServlet.java" afterPath="$PROJECT_DIR$/src/main/java/br/com/esr/FluxoCompraServlet.java" />
+    </list>
     <ignored path="LabCDI.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FluxoCompraServlet.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FluxoCompraServlet.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/com/esr/FluxoCompraServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+            <state relative-caret-position="300">
+              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,7 +94,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CalculadoraFreteAutomatico.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CalculadoraFreteAutomatico.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/com/esr/CalculadoraFreteAutomatico.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -148,6 +151,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -166,9 +172,9 @@
         <option value="$PROJECT_DIR$/src/main/java/br/com/esr/FreteManual.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/esr/TipoFrete.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/esr/Frete.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/com/esr/FluxoCompraServlet.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/esr/CalculadoraFreteManual.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/esr/CalculadoraFreteAutomatico.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/esr/FluxoCompraServlet.java" />
       </list>
     </option>
   </component>
@@ -672,16 +678,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/esr/FluxoCompraServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/esr/CalculadoraFreteManual.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -700,6 +696,16 @@
           <folding>
             <element signature="e#186#187#0" expanded="true" />
             <element signature="e#225#226#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/esr/FluxoCompraServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

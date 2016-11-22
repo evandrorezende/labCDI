@@ -17,6 +17,7 @@ public class FluxoCompraServlet extends HttpServlet {
     private MeuLogger logger;
 
     @Inject @Frete(tipo = TipoFrete.AUTOMATICO)
+
     private CalculadoraFrete calculadoraFrete;
 
     @Override
